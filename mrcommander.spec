@@ -11,6 +11,8 @@ Source0:	http://dl.sourceforge.net/mrcommander/%{name}-%{version}-%{sub_ver}.tar
 # Source0-md5:	9c335de683dc9b9dda96011a75ae7e09
 URL:		http://mrcommander.sourceforge.net/
 BuildRequires:	gtk+2-devel >= 2.0.0
+BuildRequires:	libstdc++-devel
+BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
