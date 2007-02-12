@@ -1,7 +1,7 @@
 %define 	sub_ver preview6
 
 Summary:	Clone of Total Commander for Linux
-Summary(pl):	Klon Total Commandera dla Linuksa
+Summary(pl.UTF-8):   Klon Total Commandera dla Linuksa
 Name:		mrcommander
 Version:	0.1a
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 mrcommander is a clone of Total Commander used to manage files under
 Linux.
 
-%description -l pl
-mrcommander jest klonem Total Commandera u¿ywanym do zarz±dzania
+%description -l pl.UTF-8
+mrcommander jest klonem Total Commandera uÅ¼ywanym do zarzÄ…dzania
 plikami pod Linuksem.
 
 %prep
