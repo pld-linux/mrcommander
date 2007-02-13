@@ -1,7 +1,7 @@
 %define 	sub_ver preview6
 
 Summary:	Clone of Total Commander for Linux
-Summary(pl.UTF-8):   Klon Total Commandera dla Linuksa
+Summary(pl.UTF-8):	Klon Total Commandera dla Linuksa
 Name:		mrcommander
 Version:	0.1a
 Release:	1
